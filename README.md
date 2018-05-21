@@ -19,7 +19,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 * Use the id parameter in the url to infiltrate the system: /blue/public/staff/salespeople/show.php?id=1 
 * Explore the Database with sqlmap
 
-![alt text](https://github.com/bdinle/CodePath-Week-8/blob/master/Demo/SQLI.gif "SQLI Demo")
+![alt text](https://github.com/bdinhle/CodePath-Week-8/blob/master/Demo/SQLI.gif "SQLI Demo")
 
 ### Session Hijacking/Fixation
 * Use the tool to change your PHPSESSID to a logged in user's PHPSESSID: public/hacktools/change_session_id.php
